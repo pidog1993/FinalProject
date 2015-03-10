@@ -37,7 +37,12 @@ class AppDelegate: NSObject, NSApplicationDelegate, NSTableViewDelegate, NSTable
     }
 
     
-    
+    func thisIsATest(){
+        
+        println("test for git")
+        
+        
+    }
     
 //    pragma mark Street View PHP JS Method Call
     
