@@ -55,7 +55,7 @@ class AppDelegate: NSObject, NSApplicationDelegate, NSTableViewDelegate, NSTable
     
     func thisIsThirdTest(){
         
-        println("test 3 for git")
+        println("test 4 for git")
         
     }
     
